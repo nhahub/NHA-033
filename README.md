@@ -87,8 +87,8 @@ To view the full interactive dashboard with data:
 👥 The Team
 Submitted as a Graduation Project for DEPI
 
-Mahmoud Moustafa | Teem Leader | Financial & Operational Performance Analyst
-Yousef Khaled | Sales Performance Analyst B2B
-Yousef Asaad | Sales Performance Analyst B2C
-Rehab Ashraf | Product & Inventory Analyst
-Shahd Soliman | Customer & Market Insights Analyst
+Mahmoud Moustafa | Teem Leader | Financial & Operational Performance Analyst|
+Yousef Khaled | Sales Performance Analyst B2B|
+Yousef Asaad | Sales Performance Analyst B2C|
+Rehab Ashraf | Product & Inventory Analyst|
+Shahd Soliman | Customer & Market Insights Analyst|
