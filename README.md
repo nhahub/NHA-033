@@ -75,7 +75,7 @@ This solution is divided into 5 specialized domains, mirroring our team's functi
 
 ---
 
-## 🚀 How to Run the Project (للتشغيل)
+## 🚀 How to Run the Project
 
 To view the full interactive dashboard with data:
 
